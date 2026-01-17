@@ -3,7 +3,7 @@ title: The Cost of Digital Ownership
 description: Thinking through the implications of software moving toward subscription as a service, piracy as a response to digital rights management, and the sustainability of free open-source software for the developer.
 author: userjrd
 date: 2023-12-10 18:09:00 +0800
-categories: [Digital Ownership]
+categories: [Technology, Digital Ownership]
 tags: [foss, piracy, drm]
 ---
 
